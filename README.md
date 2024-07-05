@@ -1,4 +1,4 @@
-# Challange 11 - CryptoClustering
+# Challenge 11 - CryptoClustering
 -------
 
 ## Overview and agenda for clustering
